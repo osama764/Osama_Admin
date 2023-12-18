@@ -513,7 +513,7 @@ function DisplayPushDevices() {
                 newName,
                 nameOfArray,
                 newImage,
-                newtype
+              
               );
             }
           });
@@ -571,7 +571,7 @@ function updateStateDevice(
   NewName,
   NameOfArray,
   newImage,
-  newtype
+  newtype="null"
 ) {
   var data = {
     status: currentStatus,
