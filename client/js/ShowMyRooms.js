@@ -311,9 +311,7 @@ function DisplayPushDevices() {
             if (deviceIndex >= 0 && deviceIndex < devicesArray.length) {
               const deviceName = devicesArray[deviceIndex].Name;
               const imageName = devicesArray[deviceIndex].nameImage;
-              const typeDevice = devicesArray[deviceIndex].type;
-
-              const newtype = typeDevice; 
+            
               const newImage = imageName;
               const newName = deviceName;
               const nameOfArray = "devicesPush";
@@ -326,7 +324,7 @@ function DisplayPushDevices() {
                 newName,
                 nameOfArray,
                 newImage,
-                newtype
+              
               );
               button.parentElement.parentElement.firstElementChild.nextElementSibling.style.bottom ="100%"
           
@@ -345,9 +343,7 @@ function DisplayPushDevices() {
             if (deviceIndex >= 0 && deviceIndex < devicesArray.length) {
               const deviceName = devicesArray[deviceIndex].Name;
               const imageName = devicesArray[deviceIndex].nameImage;
-              const typeDevice = devicesArray[deviceIndex].type;
-
-              const newtype = typeDevice; 
+              
               const newImage = imageName;
               const newName = deviceName;
               const nameOfArray = "devicesPush";
@@ -359,7 +355,7 @@ function DisplayPushDevices() {
                 newName,
                 nameOfArray,
                 newImage,
-                newtype
+              
               );
 
               button.parentElement.parentElement.firstElementChild.nextElementSibling.style.bottom="100%"
@@ -378,9 +374,7 @@ function DisplayPushDevices() {
             if (deviceIndex >= 0 && deviceIndex < devicesArray.length) {
               const deviceName = devicesArray[deviceIndex].Name;
               const imageName = devicesArray[deviceIndex].nameImage;
-              const typeDevice = devicesArray[deviceIndex].type;
-
-              const newtype = typeDevice; 
+              
               const newImage = imageName;
               const newName = deviceName;
               const nameOfArray = "devicesPush";
@@ -392,7 +386,7 @@ function DisplayPushDevices() {
                 newName,
                 nameOfArray,
                 newImage,
-                newtype
+              
               );
 
             
@@ -411,9 +405,7 @@ function DisplayPushDevices() {
             if (deviceIndex >= 0 && deviceIndex < devicesArray.length) {
               const deviceName = devicesArray[deviceIndex].Name;
               const imageName = devicesArray[deviceIndex].nameImage;
-              const typeDevice = devicesArray[deviceIndex].type;
-
-              const newtype = typeDevice; 
+          
               const newImage = imageName;
               const newName = deviceName;
               const nameOfArray = "devicesPush";
@@ -425,7 +417,7 @@ function DisplayPushDevices() {
                 newName,
                 nameOfArray,
                 newImage,
-                newtype
+            
               );
             
             }
@@ -449,9 +441,7 @@ function DisplayPushDevices() {
             if (deviceIndex >= 0 && deviceIndex < devicesArray.length) {
               const deviceName = devicesArray[deviceIndex].Name;
               const imageName = devicesArray[deviceIndex].nameImage;
-              const typeDevice = devicesArray[deviceIndex].type;
-
-              const newtype = typeDevice; 
+            
               const newImage = imageName;
               const newName = deviceName;
               const nameOfArray = "devicesPush";
@@ -463,7 +453,7 @@ function DisplayPushDevices() {
                 newName,
                 nameOfArray,
                 newImage,
-                newtype
+            
               );
               button.parentElement.parentElement.firstElementChild.nextElementSibling.style.bottom="27%"
             }
@@ -481,9 +471,7 @@ function DisplayPushDevices() {
             if (deviceIndex >= 0 && deviceIndex < devicesArray.length) {
               const deviceName = devicesArray[deviceIndex].Name;
               const imageName = devicesArray[deviceIndex].nameImage;
-              const typeDevice = devicesArray[deviceIndex].type;
-
-              const newtype = typeDevice; 
+    
               const newImage = imageName;
               const newName = deviceName;
               const nameOfArray = "devicesPush";
@@ -495,7 +483,7 @@ function DisplayPushDevices() {
                 newName,
                 nameOfArray,
                 newImage,
-                newtype
+            
               );
               button.parentElement.parentElement.firstElementChild.nextElementSibling.style.bottom ="27%"
             }
@@ -513,9 +501,7 @@ function DisplayPushDevices() {
             if (deviceIndex >= 0 && deviceIndex < devicesArray.length) {
               const deviceName = devicesArray[deviceIndex].Name;
               const imageName = devicesArray[deviceIndex].nameImage;
-              const typeDevice = devicesArray[deviceIndex].type;
-
-              const newtype = typeDevice; 
+          
               const newImage = imageName;
               const newName = deviceName;
               const nameOfArray = "devicesPush";
@@ -545,9 +531,7 @@ function DisplayPushDevices() {
             if (deviceIndex >= 0 && deviceIndex < devicesArray.length) {
               const deviceName = devicesArray[deviceIndex].Name;
               const imageName = devicesArray[deviceIndex].nameImage;
-              const typeDevice = devicesArray[deviceIndex].type;
-
-              const newtype = typeDevice; 
+            
               const newImage = imageName;
               const newName = deviceName;
               const nameOfArray = "devicesPush";
@@ -559,7 +543,7 @@ function DisplayPushDevices() {
                 newName,
                 nameOfArray,
                 newImage,
-                newtype
+      
               );
             }
           });
